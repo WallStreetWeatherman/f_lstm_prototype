@@ -1,0 +1,34 @@
+Flower Long Short-Term Memory Deep Learning Algorithm V3.16.0 patch notes
+
+        .     .
+    ...  :``..':
+     : ````.'   :''::'
+   ..:..  :     .'' :
+``.    `:    .'     :
+    :    :   :        :
+     :   :   :         :
+     :    :   :        :
+      :    :   :..''''``::.
+       : ...:..'     .''
+       .'   .'  .::::'
+      :..'''``:::::::
+      '         `::::
+                  `::.
+                   `::
+                    :::.
+         ..:.:.::'`. ::'`.  . : : .
+       ..'      `:.: ::   :'       .:
+      .:        .:``:::  :       .: ::
+      .:    ..''     :::.'    :':    :
+       : .''         .:: : : '
+        :          .'`::
+                      ::
+                      ::
+                      ::
+                      ::
+                      ::
+                      ::
+
+removed random integer selection for random seed, infinite loop until 'Z' is pressed,
+random seed generator to the main function so that the seed will change during each test
+and controlled iteration of integers for seed (0-100) in preperation for GridSearchCV addition

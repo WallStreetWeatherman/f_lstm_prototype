@@ -1,0 +1,32 @@
+Flower Long Short-Term Memory Deep Learning Algorithm V3.14.0 patch notes
+
+        .     .
+    ...  :``..':
+     : ````.'   :''::'
+   ..:..  :     .'' :
+``.    `:    .'     :
+    :    :   :        :
+     :   :   :         :
+     :    :   :        :
+      :    :   :..''''``::.
+       : ...:..'     .''
+       .'   .'  .::::'
+      :..'''``:::::::
+      '         `::::
+                  `::.
+                   `::
+                    :::.
+         ..:.:.::'`. ::'`.  . : : .
+       ..'      `:.: ::   :'       .:
+      .:        .:``:::  :       .: ::
+      .:    ..''     :::.'    :':    :
+       : .''         .:: : : '
+        :          .'`::
+                      ::
+                      ::
+                      ::
+                      ::
+                      ::
+                      ::
+
+moved the random seed generator to the main function so that the seed will change during each test.
